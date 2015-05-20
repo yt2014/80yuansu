@@ -9,6 +9,11 @@ a{
     text-decoration:none;	
 }
 
+a:link    {color:blue;}
+a:visited {color:black;}
+a:hover   {color:red;}
+a:active  {color:blue;}
+
 #div_top
 {
 	background-color:#f2f2f2;
@@ -30,9 +35,6 @@ a{
    width:30%;	
    float:left;
    height:100%;
-
-
-
 }
 
 #navigators
@@ -54,6 +56,24 @@ a{
 #div_body
 {
 
+}
+
+#div_body_left
+{
+	width:30%;
+	height:89%;
+    float:left;
+    background-color:#00ff00;
+    padding-left:5%;
+    padding-top:5%;
+}
+
+#div_body_right
+{
+	width:65%;
+	height:100%;
+	float:left;
+    background-color:#ff0080;
 }
 
 #div_buttom

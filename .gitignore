@@ -7,3 +7,13 @@
 
 #.swp files
 *.swp
+
+#buildpath
+.buildpath
+
+#.project
+
+.project
+
+#.settings/
+.settings/
