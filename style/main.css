@@ -59,12 +59,11 @@ a:active  {color:blue;}
 
 #div_body_left
 {
-	width:30%;
-	height:89%;
+	width:25%;
+	height:76%;
     float:left;
     background-color:#00ff00;
-    padding-left:5%;
-    padding-top:5%;
+    padding:5%;
 }
 
 #div_body_right
