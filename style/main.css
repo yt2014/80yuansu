@@ -59,16 +59,23 @@ a:active  {color:blue;}
 
 #div_body_left
 {
-	width:25%;
-	height:76%;
+	width:30%;
+	height:100%;
     float:left;
     background-color:#00ff00;
-    padding:5%;
+    
+}
+
+#list_aboutus
+{
+    margin-top:60px;
+    margin-left:60px;
+    font-size:20px;
 }
 
 #div_body_right
 {
-	width:65%;
+	width:70%;
 	height:100%;
 	float:left;
     background-color:#ff0080;
